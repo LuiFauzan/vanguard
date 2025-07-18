@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@plugin "daisyui";
+@source "../views";
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chonburi&display=swap');
+@theme{
+    --color-vangen : #1690a3 ;
+    --color-vangen-300 : #0B7586 ;
+    --font-calsans: "Cal Sans",sans-serif;
+    --font-chonburi: "Chonburi",serif;
+}
+
